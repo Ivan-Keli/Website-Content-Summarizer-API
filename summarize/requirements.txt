@@ -15,7 +15,3 @@ pydantic==1.8.2
 #http://localhost:8000/docs
 #"https://en.wikipedia.org/wiki/Microsoft_Azure"
 #C:\Users\ivank\Downloads\HuggingFace-Summarization\summarize
-
-
-git config --global user.name "ivank"
-git config --global user.email "ivankeli174@gmail.com"
